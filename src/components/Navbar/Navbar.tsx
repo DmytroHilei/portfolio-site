@@ -8,19 +8,19 @@ import Logo from './Logo'
 
 const navItems = [
   {
-    label: '_home',
+    label: 'home',
     href: '/',
   },
   {
-    label: '_projects',
+    label: 'projects',
     href: '/#projects',
   },
   {
-    label: '_services',
+    label: 'achievements',
     href: '/#services',
   },
   {
-    label: '_contact-me',
+    label: 'contact me',
     href: '/#contact',
   },
 ]

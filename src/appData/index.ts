@@ -122,7 +122,7 @@ export const footerLinks = [
     href: '#blogs',
   },
   {
-    title: 'Services',
+    title: 'Achievements',
     href: '#services',
   },
   {

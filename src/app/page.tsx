@@ -4,7 +4,7 @@ import Hero from '../components/Hero/Hero'
 import ProjectSection from '../components/Projects/ProjectSection'
 import ServiceSection from '../components/Services/ServiceSection'
 import Skills from '../components/Skills/Skills'
-import TestimonialSection from '../components/Testimonials/TestimonialSection'
+//import TestimonialSection from '../components/Testimonials/TestimonialSection'
 import { projects } from '../appData'
 // import { getAllTestimonials } from '../services'
 

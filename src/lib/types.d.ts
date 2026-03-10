@@ -3,7 +3,7 @@ export interface Project {
   title: string
   shortDescription: string
   cover: string
-  livePreview: string
+  livePreview?: string
 
   type?: string
   siteAge?: string

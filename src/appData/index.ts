@@ -1,5 +1,5 @@
 // Data for portfolio
-import {
+/*import {
   ExpressjsIcon,
   JavaScriptIcon,
   NestjsIcon,
@@ -9,7 +9,7 @@ import {
   SocketIcon,
   TailwindCSS,
   TypescriptIcon,
-} from '../utils/icons'
+} from '../utils/icons' */
 
 // Project Data
 export const projects = [

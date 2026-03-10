@@ -6,10 +6,10 @@ import ServiceSection from '../components/Services/ServiceSection'
 import Skills from '../components/Skills/Skills'
 import TestimonialSection from '../components/Testimonials/TestimonialSection'
 import { projects } from '../appData'
-import { getAllTestimonials } from '../services'
+// import { getAllTestimonials } from '../services'
 
 export default async function Home() {
-  const testimonials = await getAllTestimonials()
+  // const testimonials = await getAllTestimonials()
 
   return (
     <main>

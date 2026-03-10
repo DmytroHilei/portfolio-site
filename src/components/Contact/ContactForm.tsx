@@ -1,6 +1,6 @@
 'use client'
 
-import action from '@/actions/contact-form'
+import action from '../../actions/contact-form'
 import { useActionState } from 'react'
 import Button from '../UI/Button'
 import Input from '../UI/Input'

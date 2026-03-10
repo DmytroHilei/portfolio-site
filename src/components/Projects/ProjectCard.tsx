@@ -1,4 +1,4 @@
-import { Project } from '@/lib/types'
+import { Project } from '../../lib/types'
 import Image from 'next/image'
 import { Earning, GithubIcon, Likes, PreviewIcon, Star, Timer } from '../../utils/icons'
 

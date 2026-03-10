@@ -1,8 +1,8 @@
 'use client'
 
-import { themes } from '@/appData'
-import useOutsideClick from '@/hooks/useOutsideClick'
-import { CheckIcon, CloseIcon } from '@/utils/icons'
+import { themes } from '../../appData'
+import useOutsideClick from '../../hooks/useOutsideClick'
+import { CheckIcon, CloseIcon } from '../../utils/icons'
 import { useEffect, useState } from 'react'
 
 const ThemeMenu = () => {

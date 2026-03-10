@@ -10,6 +10,16 @@
 
 ![Next.js Portfolio Template Hero Section](https://ik.imagekit.io/cpnw7c0xpe/Tailwind%20Components/Templates/Flexy%20Dev%20Cover%20New.png?updatedAt=1741812978958)
 
+
+## Credits
+
+This portfolio is based on the Next.js portfolio template by AbdulBasit313.
+The template was modified and adapted for my personal use.
+
+Original repository:
+https://github.com/AbdulBasit313/nextjs-portfolio-template
+
+
 ## 🚀 How to Run the Project
 
 Follow these steps to set up and run the project locally:

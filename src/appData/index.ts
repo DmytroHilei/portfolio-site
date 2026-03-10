@@ -45,7 +45,7 @@ export const projects = [
   },
   {
     priority: 4,
-    title: 'Attention keeper ML',
+    title: 'Attention keeper LM',
     shortDescription:
       'YOLO-based eye detection system for attention monitoring, trained on a custom dataset with MediaPipe-generated bounding boxes; triggers a short rickroll when prolonged loss of attention is detected.',
     cover:
@@ -85,7 +85,7 @@ export const achiements = [
   {
     icon: '/icons/Plast.svg',
     title: 'PLAST member',
-    shortDescription: 'Designing beautiful and responsive interfaces with Tailwind CSS.',
+    shortDescription: 'Member of the organisation for 8 years. Organised youth events.',
   },
 ]
 
